@@ -1,0 +1,85 @@
+{
+    "name": "emotion",
+    "children": [
+        {
+            "name": "happiness",
+            "size": 3938,
+            "children": [
+                {
+                    "name": "anger",
+                    "size": 300
+                },
+                {
+                    "name": "sadness",
+                    "size": 100
+                }
+            ]
+        },
+        {
+            "name": "sadness",
+            "size": 3812
+        },
+        {
+            "name": "neutral",
+            "size": 6714
+        },
+        {
+            "name": "anger",
+            "size": 743
+        },
+        {
+            "name": "sadness",
+            "size": 3812
+        },
+        {
+            "name": "neutral",
+            "size": 6714
+        },
+        {
+            "name": "anger",
+            "size": 743
+        },
+        {
+            "name": "happiness",
+            "size": 0,
+            "children": [
+                {
+                    "name": "anger",
+                    "size": 4000
+                },
+                {
+                    "name": "sadness",
+                    "size": 3812
+                },
+                {
+                    "name": "neutral",
+                    "size": 6714
+                }
+            ]
+        },
+        {
+            "name": "sadness",
+            "size": 3812
+        },
+        {
+            "name": "neutral",
+            "size": 6714
+        },
+        {
+            "name": "anger",
+            "size": 743
+        },
+        {
+            "name": "sadness",
+            "size": 3812
+        },
+        {
+            "name": "neutral",
+            "size": 6714
+        },
+        {
+            "name": "anger",
+            "size": 743
+        }
+    ]
+}
